@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Environment files (API keys, private keys)
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+artifacts/
+cache/
+typechain-types/
+
+# Next.js build
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Hardhat coverage
+coverage/
+coverage.json
+
+# Chrome browser data (scraper profile)
+scraper/chrome-data/
+
+# Embedded git repos
+frontend/.git/
+
+# Presentation (code only)
+sunum.html
