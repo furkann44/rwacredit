@@ -38,3 +38,7 @@ frontend/.git/
 
 # Presentation (code only)
 sunum.html
+
+# Tool configs
+.opencode/
+.qoder/
